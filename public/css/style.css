@@ -1,0 +1,21 @@
+*{
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navigator a{
+    color: white;
+}
+.card{
+    position: relative;
+}
+.feature i{
+    position: absolute;
+    background: blue;
+    border: 1px solid transparent;
+    padding: 5px;
+    border-radius: 5px;
+    top: -26px;
+    left: 175px;
+}
